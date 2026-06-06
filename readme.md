@@ -1,8 +1,11 @@
+# Advanced-Digital-Clock
+Advanced Digital Clock featuring real-time updates, date display, dynamic greetings, dark/light mode, and 12/24-hour time format using HTML, CSS, and JavaScript.
+
 # ⏰ Digital Clock
 
 A simple and responsive Digital Clock built using HTML, CSS, and JavaScript. The clock displays the current time in real-time and updates every second automatically.
 
-## Features of Digital Clock
+## 🚀 Features
 
 - Real-time clock updates
 - 12-hour and 24-hour format support
@@ -11,22 +14,24 @@ A simple and responsive Digital Clock built using HTML, CSS, and JavaScript. The
 - Lightweight and fast
 - Easy to customize
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## Project Structure
+## 📂 Project Structure
 
+```
 Digital-Clock/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+```
 
-##  Preview
+## 📸 Preview
 
 Digital Clock Interface:
 
@@ -40,7 +45,7 @@ Monday, 05 June 2026
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/zxsuma313-source/Digital-Clock.git
+git clone https://github.com/xzsuma313-source/Digital-Clock.git
 ```
 
 2. Open the project folder:
@@ -51,13 +56,13 @@ cd Digital-Clock
 
 3. Open `index.html` in your browser.
 
-##  Usage
+## 💻 Usage
 
 - Open the application in any modern browser.
 - The clock will automatically display the current system time.
 - Time updates every second.
 
-##  Customization
+## 🎨 Customization
 
 You can customize:
 
@@ -69,7 +74,7 @@ You can customize:
 
 by editing the `style.css` and `script.js` files.
 
-##  Future Enhancements
+## 🔮 Future Enhancements
 
 - Dark/Light Mode
 - Multiple Time Zones
@@ -78,7 +83,7 @@ by editing the `style.css` and `script.js` files.
 - Countdown Timer
 - Weather Integration
 
-##  Contributing
+## 🤝 Contributing
 
 Contributions are welcome.
 
@@ -103,14 +108,15 @@ git push origin feature-name
 
 5. Open a Pull Request
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Suman
+Suman Kumar
 
 GitHub: https://github.com/zxsuma313-source
 
 ---
+
