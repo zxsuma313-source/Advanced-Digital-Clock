@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-family:Arial, sans-serif;
+    background:#111;
+    color:white;
+    transition:0.4s;
+}
+.over_box{
+height: 400px;
+width: 300px;
+background-color: rgb(56, 57, 57);
+border-radius: 20px;
+    box-shadow:0 0 20px cyan;
+}
+.container{
+    text-align:center;
+}
+
+#clock{
+    font-size:60px;
+    margin:20px 0;
+    color:cyan;
+}
+
+#date{
+    font-size:22px;
+    margin-bottom:20px;
+}
+
+#greeting{
+    font-size:24px;
+    margin-bottom:10px;
+}
+
+button{
+    padding:10px 20px;
+    margin:5px;
+    border:none;
+    cursor:pointer;
+    border-radius:8px;
+}
+
+.light{
+    background:white;
+    color:black;
+}
